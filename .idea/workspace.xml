@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="107788bb-934f-4c49-a8f4-2be7cade30bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="107788bb-934f-4c49-a8f4-2be7cade30bc" name="Changes" comment="MODULE 3: JAVA BASIC. PART1">
+      <change afterPath="$PROJECT_DIR$/jshell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +86,25 @@
       <option name="presentableId" value="Default" />
       <updated>1656669167447</updated>
     </task>
+    <task id="LOCAL-00001" summary="MODULE 3: JAVA BASIC. PART1">
+      <created>1656876819642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656876819642</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MODULE 3: JAVA BASIC. PART1">
+      <created>1656920556942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656920556942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MODULE 3: JAVA BASIC. PART1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MODULE 3: JAVA BASIC. PART1" />
   </component>
 </project>
